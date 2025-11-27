@@ -1,0 +1,21 @@
+2025-11-27 17:42:44,620 - INFO - DIR command received for path: .
+2025-11-27 17:42:44,621 - INFO - Found 10 files in directory: .
+2025-11-27 17:42:44,621 - INFO - COPY command received. Source: cyber2.txt, Dest: cyber3.txt
+2025-11-27 17:42:44,621 - INFO - File copied successfully from cyber2.txt to cyber3.txt
+2025-11-27 17:42:44,621 - INFO - DELETE command received for file: cyber3.txt
+2025-11-27 17:42:44,621 - INFO - File deleted successfully: cyber3.txt
+2025-11-27 17:42:44,621 - INFO - DELETE command received for file: cyber2.txt
+2025-11-27 17:42:44,622 - INFO - File deleted successfully: cyber2.txt
+2025-11-27 17:42:44,622 - INFO - DELETE command received for file: cyber1.txt
+2025-11-27 17:42:44,622 - INFO - File deleted successfully: cyber1.txt
+2025-11-27 17:42:44,622 - INFO - TAKE_SCREENSHOT command received
+2025-11-27 17:42:44,655 - INFO - Screenshot saved successfully to: screen.jpg
+2025-11-27 17:42:44,656 - INFO - All Assert Tests Passed
+2025-11-27 17:42:44,656 - INFO - Server started successfully on 0.0.0.0:12345
+2025-11-27 17:42:46,599 - INFO - Accepted connection from: ('127.0.0.1', 59695)
+2025-11-27 17:42:46,599 - INFO - New client connected: ('127.0.0.1', 59695)
+2025-11-27 17:42:54,243 - INFO - Processing command: DIR
+2025-11-27 17:42:54,243 - INFO - DIR command received for path: dsfgdfg
+2025-11-27 17:42:54,243 - WARNING - Path does not exist: dsfgdfg
+2025-11-27 17:46:10,792 - INFO - Connection with ('127.0.0.1', 59695) was closed
+2025-11-27 17:46:10,792 - INFO - Server was closed

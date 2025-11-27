@@ -1,0 +1,5 @@
+2025-11-27 17:42:46,598 - INFO - Attempting to connect to server 127.0.0.1:12345
+2025-11-27 17:42:46,598 - INFO - Successfully connected to server
+2025-11-27 17:42:54,243 - INFO - User entered command: dir dsfgdfg
+2025-11-27 17:42:54,244 - WARNING - Error response: Path does not exist
+2025-11-27 17:46:10,792 - INFO - Client connection closed
